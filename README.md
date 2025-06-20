@@ -1,5 +1,6 @@
 # chatbot with SQL
 
+<<<<<<< HEAD
 # 🤖 Chatbot AI Biết SQL – Truy Vấn SQLite Bằng LangChain + GGUF + LlamaCpp
 
 Chatbot thông minh có khả năng **hiểu tiếng Việt tự nhiên**, **tự sinh câu lệnh SQL**, và **truy vấn trực tiếp cơ sở dữ liệu SQLite**.
@@ -36,11 +37,3 @@ Chatbot thông minh có khả năng **hiểu tiếng Việt tự nhiên**, **t�
 ✔️ Sử dụng mô hình GGUF siêu nhẹ, tiết kiệm tài nguyên  
 ✔️ Chạy tốt cả trên CPU (không cần GPU)  
 ✔️ Giao diện Gradio trực quan – chỉ cần nhập câu hỏi tiếng Việt  
-
----
-
-
-
-
-
-
